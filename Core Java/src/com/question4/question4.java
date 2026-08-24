@@ -1,8 +1,8 @@
 //Create a resource called message
-// ○Message will have text as the field and isEmpty as the condition
-// ○It has two synchronized functions read and write
-// ●Create a writer thread that writes resource
-// ●Create a reader thread that reads resource
+// Message will have text as the field and isEmpty as the condition
+// It has two synchronized functions: read and write
+// Create a writer thread that writes to the resource
+// Create a reader thread that reads from the resource
 
 package com.question4;
 
